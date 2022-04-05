@@ -5,8 +5,8 @@
 
 #include "state.h"
 
-#define LOG_PATH "resource/log.txt"
-#define WEIGHTS_PATH "resource/weights.txt"
+#define LOG_PATH "resource/_log.txt"
+#define WEIGHTS_PATH "resource/_weights.txt"
 
 using namespace std;
 
