@@ -2,9 +2,9 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-ARRAY_SIZE = 10
-N_STATES = 5
-N_ITERATIONS = 10000
+ARRAY_SIZE = 7
+N_STATES = 3
+N_ITERATIONS = 1000
 SAMPLE_SIZE = N_ITERATIONS/10
 
 COMPILE_CMD = 'g++ -std=c++11 -Wall -Werror src/main.cpp -o runner'
